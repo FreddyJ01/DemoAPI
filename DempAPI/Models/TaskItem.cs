@@ -1,7 +1,7 @@
 using System;
 using Microsoft.Net.Http.Headers;
 
-namespace DempAPI.Models;
+namespace DemoAPI.Models;
 
 public class TaskItem
 {
