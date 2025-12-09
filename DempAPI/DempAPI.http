@@ -1,0 +1,6 @@
+@DempAPI_HostAddress = http://localhost:5116
+
+GET {{DempAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
